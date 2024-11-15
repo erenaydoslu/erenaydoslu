@@ -12,7 +12,6 @@ Welcome to my GitHub profile! I'm an Artificial Intelligence Master's student at
 ## 🚀 Projects
 
 - **Smart Wind Farm Optimization**: Developed a wind flow prediction model using Physics-Informed Neural Networks (PINNs) and implemented reinforcement learning for dynamic yaw angle optimization in turbines.
-- **Quantitative Research on Sociophysics**: Created regression models to analyze the relationship between Reddit sentiment and stock market behavior, utilizing psychological theories and deep learning techniques.
 - **Release Engineering for ML Applications**: Built a multi-service ML pipeline with automated deployments using Docker, Kubernetes, and CI/CD practices.
 - **Social Media App Development**: Leading the development of a React Native app with a Supabase backend, managing both frontend and backend components, and collaborating with a diverse team.
 
