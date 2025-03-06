@@ -23,7 +23,7 @@ I'm exploring advanced topics in **spiking neural networks**, focusing on their 
 
 Feel free to explore my projects or get in touch if you'd like to collaborate or chat about technology and innovation.
 
-- GitHub: [github.com/erenaydoslu](https://github.com/erenaydoslu)
+- LinkedIn: [linkedin.com/in/eren-aydoslu](https://www.linkedin.com/in/eren-aydoslu/)
 - Email: erenaydoslue@gmail.com
 
 Thank you for visiting, and I look forward to connecting with you!
