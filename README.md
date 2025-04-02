@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm an Artificial Intelligence Master's student at
 
 ## 🚀 Projects
 
-- **Smart Wind Farm Optimization**: Developed a wind flow prediction model using Physics-Informed Neural Networks (PINNs) and implemented reinforcement learning for dynamic yaw angle optimization in turbines.
-- **Release Engineering for ML Applications**: Built a multi-service ML pipeline with automated deployments using Docker, Kubernetes, and CI/CD practices.
+- **Smart Wind Farm Optimization**: Developed a wind flow prediction model using Physics-Informed Neural Networks (PINNs) and implemented reinforcement learning for dynamic yaw angle optimization in turbines. Repo: https://github.com/erenaydoslu/AI2P-WindFarmControl
+- **Release Engineering for ML Applications**: Built a multi-service ML pipeline with automated deployments using Docker, Kubernetes, and CI/CD practices. Repo: https://github.com/erenaydoslu/MLOps-Project
 - **Social Media App Development**: Leading the development of a React Native app with a Supabase backend, managing both frontend and backend components, and collaborating with a diverse team.
 
 ## 🌱 Currently Learning
