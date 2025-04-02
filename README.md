@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm an Artificial Intelligence Master's student at
 
 ## 🌱 Currently Learning
 
-I'm exploring advanced topics in **spiking neural networks**, focusing on their sensitivity to sample difficulty.
+I'm exploring topics in **spiking neural networks**, focusing on their sensitivity to sample difficulty.
 
 ## 📫 Let's Connect!
 
