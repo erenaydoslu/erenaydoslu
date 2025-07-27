@@ -1,11 +1,11 @@
 # Hi there, I'm Eren Aydoslu! 👋
 
-Welcome to my GitHub profile! I'm an Artificial Intelligence Master's student at TU Delft with a strong foundation in **machine learning**, **data analysis**, and **software development**. My journey has taken me through diverse projects, from building robust machine learning pipelines to developing mobile applications and optimizing wind farm dynamics using cutting-edge AI techniques.
+Welcome to my GitHub profile! I'm an Artificial Intelligence Master's graduate from TU Delft with a strong foundation in **machine learning**, **data analysis**, and **software development**. My journey has taken me through diverse projects, from building robust machine learning pipelines to developing mobile applications and optimizing wind farm dynamics using cutting-edge AI techniques.
 
 ## 🛠️ Core Skills
 
 - **Programming Languages**: Python, TypeScript, SQL
-- **Technologies**: React Native, Docker, Linux, CI/CD, DevOps/MLOps
+- **Technologies**: PyTorch, Pandas, Numpy, Docker, Linux, React Native, CI/CD, DevOps/MLOps
 - **Machine Learning**: Deep Learning, Reinforcement Learning, Graph Neural Networks, Physics-Informed Neural Networks, Bayesian Statistics, Causal Inference
 - **Soft Skills**: Analytical Thinking, Problem-Solving, Team Communication
 
@@ -15,9 +15,9 @@ Welcome to my GitHub profile! I'm an Artificial Intelligence Master's student at
 - **Release Engineering for ML Applications**: Built a multi-service ML pipeline with automated deployments using Docker, Kubernetes, and CI/CD practices. Repo: https://github.com/erenaydoslu/MLOps-Project
 - **Social Media App Development**: Leading the development of a React Native app with a Supabase backend, managing both frontend and backend components, and collaborating with a diverse team.
 
-## 🌱 Currently Learning
+## 🌱 Master Thesis
 
-I'm exploring topics in **spiking neural networks**, focusing on their sensitivity to sample difficulty.
+I explored spike time sensitivity in **spiking neural networks**, focusing on the effect of sample difficulty.
 
 ## 📫 Let's Connect!
 
